@@ -30,4 +30,4 @@ SQL Server (SSMS) | Power BI | DAX | Data Modelling
 4 relational tables: Loans, Customers, Risk, Payments (~520K rows total)
 
 ![summary Dashboard](summary%20dashboard.png)
-![Details Dashboard](details%20dashboard.png)
+![Details Dashboard](Details%20dashboard.png)
